@@ -1,0 +1,1905 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.16)  28 JUN 2014 16:29
+entering extended mode
+**A*Guide*on*Zigbee.tex
+("D:\eyantra_internship\ZigbeeBook\A Guide on Zigbee.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count92
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count93
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen107
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen110
+\captionmargin@=\dimen111
+\captionwidth=\dimen112
+\caption@tempdima=\dimen113
+\caption@indent=\dimen114
+\caption@parindent=\dimen115
+\caption@hangindent=\dimen116
+)
+\c@ContinuedFloat=\count101
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count102
+\c@subtable=\count103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count104
+\lst@gtempboxa=\box28
+\lst@token=\toks19
+\lst@length=\count105
+\lst@currlwidth=\dimen117
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen120
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancybox\fancybox.sty"
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box30
+\shadowsize=\dimen121
+\@Sbox=\box31
+\do@VerbBox=\toks20
+\the@fancyput=\toks21
+\this@fancyput=\toks22
+\EndVerbatimTokens=\toks23
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\minibox\minibox.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2014/06/10 v5105 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2014/06/10 v5105 L3 programming layer (code) 
+L3 Module: l3bootstrap 2014/05/26 v4889 L3 Bootstrap code
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count112
+)
+L3 Module: l3names 2014/06/02 v4993 L3 Namespace for primitives
+L3 Module: l3basics 2014/06/04 v5033 L3 Basic definitions
+L3 Module: l3expan 2014/04/30 v4712 L3 Argument expansion
+L3 Module: l3tl 2014/06/06 v5070 L3 Token lists
+L3 Module: l3seq 2014/04/30 v4712 L3 Sequences and stacks
+L3 Module: l3int 2014/05/31 v4966 L3 Integers
+\c_max_int=\count113
+\l_tmpa_int=\count114
+\l_tmpb_int=\count115
+\g_tmpa_int=\count116
+\g_tmpb_int=\count117
+L3 Module: l3quark 2014/05/26 v4889 L3 Quarks
+L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
+\g__prg_map_int=\count118
+L3 Module: l3clist 2014/05/04 v4728 L3 Comma separated lists
+L3 Module: l3token 2014/05/26 v4889 L3 Experimental token manipulation
+L3 Module: l3prop 2014/04/30 v4712 L3 Property lists
+L3 Module: l3msg 2014/05/30 v4943 L3 Messages
+L3 Module: l3file 2014/05/26 v4890 L3 File and I/O operations
+\l_iow_line_count_int=\count119
+\l__iow_target_count_int=\count120
+\l__iow_current_line_int=\count121
+\l__iow_current_word_int=\count122
+\l__iow_current_indentation_int=\count123
+L3 Module: l3skip 2014/05/31 v4972 L3 Dimensions and skips
+\c_zero_dim=\dimen122
+\c_max_dim=\dimen123
+\l_tmpa_dim=\dimen124
+\l_tmpb_dim=\dimen125
+\g_tmpa_dim=\dimen126
+\g_tmpb_dim=\dimen127
+\c_zero_skip=\skip44
+\c_max_skip=\skip45
+\l_tmpa_skip=\skip46
+\l_tmpb_skip=\skip47
+\g_tmpa_skip=\skip48
+\g_tmpb_skip=\skip49
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+L3 Module: l3keys 2014/06/08 v5093 L3 Key-value interfaces
+\g__keyval_level_int=\count124
+\l_keys_choice_int=\count125
+L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
+\c__fp_leading_shift_int=\count126
+\c__fp_middle_shift_int=\count127
+\c__fp_trailing_shift_int=\count128
+\c__fp_big_leading_shift_int=\count129
+\c__fp_big_middle_shift_int=\count130
+\c__fp_big_trailing_shift_int=\count131
+\c__fp_Bigg_leading_shift_int=\count132
+\c__fp_Bigg_middle_shift_int=\count133
+\c__fp_Bigg_trailing_shift_int=\count134
+L3 Module: l3box 2014/05/31 v4974 L3 Experimental boxes
+\c_empty_box=\box32
+\l_tmpa_box=\box33
+\l_tmpb_box=\box34
+\g_tmpa_box=\box35
+\g_tmpb_box=\box36
+L3 Module: l3coffins 2014/05/28 v4899 L3 Coffin code layer
+\l__coffin_internal_box=\box37
+\l__coffin_internal_dim=\dimen128
+\l__coffin_offset_x_dim=\dimen129
+\l__coffin_offset_y_dim=\dimen130
+\l__coffin_x_dim=\dimen131
+\l__coffin_y_dim=\dimen132
+\l__coffin_x_prime_dim=\dimen133
+\l__coffin_y_prime_dim=\dimen134
+\c_empty_coffin=\box38
+\l__coffin_aligned_coffin=\box39
+\l__coffin_aligned_internal_coffin=\box40
+\l_tmpa_coffin=\box41
+\l_tmpb_coffin=\box42
+\l__coffin_display_coffin=\box43
+\l__coffin_display_coord_coffin=\box44
+\l__coffin_display_pole_coffin=\box45
+\l__coffin_display_offset_dim=\dimen135
+\l__coffin_display_x_dim=\dimen136
+\l__coffin_display_y_dim=\dimen137
+L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
+L3 Module: l3candidates 2014/05/31 v4972 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen138
+\l__box_bottom_dim=\dimen139
+\l__box_left_dim=\dimen140
+\l__box_right_dim=\dimen141
+\l__box_top_new_dim=\dimen142
+\l__box_bottom_new_dim=\dimen143
+\l__box_left_new_dim=\dimen144
+\l__box_right_new_dim=\dimen145
+\l__box_internal_box=\box46
+\l__coffin_bounding_shift_dim=\dimen146
+\l__coffin_left_corner_dim=\dimen147
+\l__coffin_right_corner_dim=\dimen148
+\l__coffin_bottom_corner_dim=\dimen149
+\l__coffin_top_corner_dim=\dimen150
+\l__coffin_scaled_total_height_dim=\dimen151
+\l__coffin_scaled_width_dim=\dimen152
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2014/05/06 v4748 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count135
+))
+Package: minibox 2013/06/21 v0.2a Another type of box.
+\l_minibox_rule_dim=\dimen153
+\l_minibox_pad_dim=\dimen154
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count136
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("D:\eyantra_internship\ZigbeeBook\A Guide on Zigbee.aux"
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 42.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\AtBeginShipoutBox=\box47
+Package hyperref Info: Link coloring OFF on input line 42.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count137
+)
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
+
+("D:\eyantra_internship\ZigbeeBook\A Guide on Zigbee.out")
+("D:\eyantra_internship\ZigbeeBook\A Guide on Zigbee.out")
+\@outlinefile=\write4
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count138
+\scratchdimen=\dimen155
+\scratchbox=\box48
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen156
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks25
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count144
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 45.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 45.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 45.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 45.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 45.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 45.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 45.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 45.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 45.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 45.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("D:\eyantra_internship\ZigbeeBook\A Guide on Zigbee.toc"
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 3.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.33 ...Reading the module.}{17}{subsection.3.2.4}
+                                                   [1
+
+] [2])
+\tf@toc=\write5
+ [3]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+<SETUP_WINDOW.jpg, id=420, 963.6pt x 602.25pt>
+File: SETUP_WINDOW.jpg Graphic file (type jpg)
+ <use SETUP_WINDOW.jpg>
+Package pdftex.def Info: SETUP_WINDOW.jpg used on input line 70.
+(pdftex.def)             Requested size: 360.0pt x 224.99774pt.
+ [4
+
+]
+<Step2.jpg, id=425, 578.16pt x 361.35pt>
+File: Step2.jpg Graphic file (type jpg)
+ <use Step2.jpg>
+Package pdftex.def Info: Step2.jpg used on input line 79.
+(pdftex.def)             Requested size: 360.0pt x 224.99959pt.
+
+<Step3.jpg, id=426, 578.16pt x 361.35pt>
+File: Step3.jpg Graphic file (type jpg)
+ <use Step3.jpg>
+Package pdftex.def Info: Step3.jpg used on input line 87.
+(pdftex.def)             Requested size: 360.0pt x 224.99959pt.
+ [5 <D:/eyantra_internship/ZigbeeBook/SETUP_WINDOW.jpg> <D:/eyantra_internship/
+ZigbeeBook/Step2.jpg>]
+<Step4.jpg, id=433, 578.16pt x 361.35pt>
+File: Step4.jpg Graphic file (type jpg)
+ <use Step4.jpg>
+Package pdftex.def Info: Step4.jpg used on input line 96.
+(pdftex.def)             Requested size: 360.0pt x 224.99959pt.
+ [6 <D:/eyantra_internship/ZigbeeBook/Step3.jpg>] <Step5.jpg, id=440, 578.16pt 
+x 361.35pt>
+File: Step5.jpg Graphic file (type jpg)
+
+<use Step5.jpg>
+Package pdftex.def Info: Step5.jpg used on input line 104.
+(pdftex.def)             Requested size: 360.0pt x 224.99959pt.
+ <Step6-A.jpg, id=441, 578.16pt x 361.35pt>
+File: Step6-A.jpg Graphic file (type jpg)
+ <use Step6-A.jpg>
+Package pdftex.def Info: Step6-A.jpg used on input line 113.
+(pdftex.def)             Requested size: 360.0pt x 224.99959pt.
+
+[7 <D:/eyantra_internship/ZigbeeBook/Step4.jpg> <D:/eyantra_internship/ZigbeeBo
+ok/Step5.jpg>] <Step6-B.jpg, id=448, 578.16pt x 361.35pt>
+File: Step6-B.jpg Graphic file (type jpg)
+ <use Step6-B.jpg>
+Package pdftex.def Info: Step6-B.jpg used on input line 120.
+(pdftex.def)             Requested size: 323.9978pt x 202.49797pt.
+
+<finalstep.jpg, id=449, 578.16pt x 417.05812pt>
+File: finalstep.jpg Graphic file (type jpg)
+ <use finalstep.jpg>
+Package pdftex.def Info: finalstep.jpg used on input line 130.
+(pdftex.def)             Requested size: 360.0pt x 259.68703pt.
+ [8 <D:/eyantra_internship/ZigbeeBook/Step6-A.jpg> <D:/eyantra_internship/Zigbe
+eBook/Step6-B.jpg>] [9 <D:/eyantra_internship/ZigbeeBook/finalstep.jpg>]
+Chapter 2.
+<image004.jpg, id=461, 145.29282pt x 152.06813pt>
+File: image004.jpg Graphic file (type jpg)
+ <use image004.jpg>
+Package pdftex.def Info: image004.jpg used on input line 143.
+(pdftex.def)             Requested size: 108.0011pt x 113.03912pt.
+
+<image003.jpg, id=462, 179.92218pt x 155.83218pt>
+File: image003.jpg Graphic file (type jpg)
+ <use image003.jpg>
+Package pdftex.def Info: image003.jpg used on input line 149.
+(pdftex.def)             Requested size: 108.0011pt x 93.54283pt.
+
+<image002.jpg, id=463, 190.46156pt x 156.585pt>
+File: image002.jpg Graphic file (type jpg)
+ <use image002.jpg>
+Package pdftex.def Info: image002.jpg used on input line 155.
+(pdftex.def)             Requested size: 108.0011pt x 88.79085pt.
+
+<image007.jpg, id=464, 230.36063pt x 161.85469pt>
+File: image007.jpg Graphic file (type jpg)
+ <use image007.jpg>
+Package pdftex.def Info: image007.jpg used on input line 170.
+(pdftex.def)             Requested size: 180.0pt x 126.47087pt.
+
+<image006.jpg, id=465, 205.5178pt x 161.85469pt>
+File: image006.jpg Graphic file (type jpg)
+ <use image006.jpg>
+Package pdftex.def Info: image006.jpg used on input line 176.
+(pdftex.def)             Requested size: 180.0pt x 141.75832pt.
+ [10
+
+ <D:/eyantra_internship/ZigbeeBook/image004.jpg> <D:/eyantra_internship/ZigbeeB
+ook/image003.jpg> <D:/eyantra_internship/ZigbeeBook/image002.jpg>]
+<image008.jpg, id=471, 458.46281pt x 241.65282pt>
+File: image008.jpg Graphic file (type jpg)
+ <use image008.jpg>
+Package pdftex.def Info: image008.jpg used on input line 193.
+(pdftex.def)             Requested size: 360.0pt x 189.76056pt.
+
+<image009.jpg, id=472, 223.58531pt x 160.34906pt>
+File: image009.jpg Graphic file (type jpg)
+ <use image009.jpg>
+Package pdftex.def Info: image009.jpg used on input line 201.
+(pdftex.def)             Requested size: 360.0pt x 258.20547pt.
+ [11 <D:/eyantra_internship/ZigbeeBook/image007.jpg> <D:/eyantra_internship/Zig
+beeBook/image006.jpg> <D:/eyantra_internship/ZigbeeBook/image008.jpg>]
+<image010.jpg, id=479, 171.64125pt x 223.58531pt>
+File: image010.jpg Graphic file (type jpg)
+ <use image010.jpg>
+Package pdftex.def Info: image010.jpg used on input line 209.
+(pdftex.def)             Requested size: 360.0pt x 468.9903pt.
+ [12 <D:/eyantra_internship/ZigbeeBook/image009.jpg>]
+<image011.jpg, id=486, 175.40532pt x 219.82124pt>
+File: image011.jpg Graphic file (type jpg)
+ <use image011.jpg>
+Package pdftex.def Info: image011.jpg used on input line 217.
+(pdftex.def)             Requested size: 360.0pt x 451.23349pt.
+ [13 <D:/eyantra_internship/ZigbeeBook/image010.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 234.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 234.
+
+<image012.png, id=492, 188.20313pt x 56.46094pt>
+File: image012.png Graphic file (type png)
+ <use image012.png>
+Package pdftex.def Info: image012.png used on input line 234.
+(pdftex.def)             Requested size: 300.0pt x 90.00677pt.
+ [14 <D:/eyantra_internship/ZigbeeBook/image011.jpg>]
+<image016.jpg, id=499, 190.46156pt x 244.66406pt>
+File: image016.jpg Graphic file (type jpg)
+ <use image016.jpg>
+Package pdftex.def Info: image016.jpg used on input line 244.
+(pdftex.def)             Requested size: 180.0pt x 231.23488pt.
+
+<image015.jpg, id=500, 175.40532pt x 238.64156pt>
+File: image015.jpg Graphic file (type jpg)
+ <use image015.jpg>
+Package pdftex.def Info: image015.jpg used on input line 249.
+(pdftex.def)             Requested size: 180.0pt x 244.91139pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--262
+
+ []
+
+[15 <D:/eyantra_internship/ZigbeeBook/image012.png> <D:/eyantra_internship/Zigb
+eeBook/image016.jpg> <D:/eyantra_internship/ZigbeeBook/image015.jpg>]
+<image019.jpg, id=508, 216.81pt x 282.30469pt>
+File: image019.jpg Graphic file (type jpg)
+ <use image019.jpg>
+Package pdftex.def Info: image019.jpg used on input line 267.
+(pdftex.def)             Requested size: 180.0pt x 234.38605pt.
+
+<image017.jpg, id=509, 214.55156pt x 282.30469pt>
+File: image017.jpg Graphic file (type jpg)
+ <use image017.jpg>
+Package pdftex.def Info: image017.jpg used on input line 272.
+(pdftex.def)             Requested size: 180.0pt x 236.8457pt.
+
+<image021.jpg, id=510, 240.14719pt x 306.39468pt>
+File: image021.jpg Graphic file (type jpg)
+ <use image021.jpg>
+Package pdftex.def Info: image021.jpg used on input line 286.
+(pdftex.def)             Requested size: 180.0pt x 229.65987pt.
+
+<image020.jpg, id=511, 237.88875pt x 305.64188pt>
+File: image020.jpg Graphic file (type jpg)
+ <use image020.jpg>
+Package pdftex.def Info: image020.jpg used on input line 291.
+(pdftex.def)             Requested size: 180.0pt x 231.2782pt.
+ [16 <D:/eyantra_internship/ZigbeeBook/image019.jpg> <D:/eyantra_internship/Zig
+beeBook/image017.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+<image024.jpg, id=517, 485.56406pt x 310.15875pt>
+File: image024.jpg Graphic file (type jpg)
+ <use image024.jpg>
+Package pdftex.def Info: image024.jpg used on input line 320.
+(pdftex.def)             Requested size: 360.0pt x 229.94928pt.
+ [17 <D:/eyantra_internship/ZigbeeBook/image021.jpg> <D:/eyantra_internship/Zig
+beeBook/image020.jpg>] <image025.jpg, id=523, 485.56406pt x 309.40594pt>
+File: image025.jpg Graphic file (type jpg)
+
+<use image025.jpg>
+Package pdftex.def Info: image025.jpg used on input line 329.
+(pdftex.def)             Requested size: 360.0pt x 229.39114pt.
+ <image026.jpg, id=524, 477.28313pt x 300.3722pt>
+File: image026.jpg Graphic file (type jpg)
+
+<use image026.jpg>
+Package pdftex.def Info: image026.jpg used on input line 338.
+(pdftex.def)             Requested size: 360.0pt x 226.55731pt.
+ [18 <D:/eyantra_internship/ZigbeeBook/image024.jpg> <D:/eyantra_internship/Zig
+beeBook/image025.jpg>]
+<image029.jpg, id=532, 483.30562pt x 310.15875pt>
+File: image029.jpg Graphic file (type jpg)
+ <use image029.jpg>
+Package pdftex.def Info: image029.jpg used on input line 347.
+(pdftex.def)             Requested size: 360.0pt x 231.03778pt.
+ [19 <D:/eyantra_internship/ZigbeeBook/image026.jpg> <D:/eyantra_internship/Zig
+beeBook/image029.jpg>] [20] <image030.jpg, id=543, 483.30562pt x 311.66437pt>
+File: image030.jpg Graphic file (type jpg)
+
+<use image030.jpg>
+Package pdftex.def Info: image030.jpg used on input line 388.
+(pdftex.def)             Requested size: 180.0pt x 116.0749pt.
+ <image032.jpg, id=544, 536.75531pt x 339.51843pt>
+File: image032.jpg Graphic file (type jpg)
+
+<use image032.jpg>
+Package pdftex.def Info: image032.jpg used on input line 402.
+(pdftex.def)             Requested size: 180.0pt x 113.85464pt.
+ [21 <D:/eyantra_internship/ZigbeeBook/image030.jpg>]
+<image033.jpg, id=550, 483.30562pt x 307.90031pt>
+File: image033.jpg Graphic file (type jpg)
+ <use image033.jpg>
+Package pdftex.def Info: image033.jpg used on input line 413.
+(pdftex.def)             Requested size: 180.0pt x 114.67303pt.
+ [22 <D:/eyantra_internship/ZigbeeBook/image032.jpg> <D:/eyantra_internship/Zig
+beeBook/image033.jpg>]
+Chapter 3.
+<bimage001.jpg, id=558, 469.755pt x 271.0125pt>
+File: bimage001.jpg Graphic file (type jpg)
+ <use bimage001.jpg>
+Package pdftex.def Info: bimage001.jpg used on input line 439.
+(pdftex.def)             Requested size: 431.9989pt x 249.23112pt.
+
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 439--441
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--443
+
+ []
+
+[23
+
+ <D:/eyantra_internship/ZigbeeBook/bimage001.jpg>]
+<bimage002.jpg, id=564, 469.755pt x 329.73187pt>
+File: bimage002.jpg Graphic file (type jpg)
+ <use bimage002.jpg>
+Package pdftex.def Info: bimage002.jpg used on input line 452.
+(pdftex.def)             Requested size: 360.0pt x 252.69183pt.
+
+<bimage003.jpg, id=565, 469.755pt x 340.27126pt>
+File: bimage003.jpg Graphic file (type jpg)
+ <use bimage003.jpg>
+Package pdftex.def Info: bimage003.jpg used on input line 461.
+(pdftex.def)             Requested size: 360.0pt x 260.76875pt.
+ [24 <D:/eyantra_internship/ZigbeeBook/bimage002.jpg>]
+<bimage004.jpg, id=572, 469.755pt x 338.76563pt>
+File: bimage004.jpg Graphic file (type jpg)
+ <use bimage004.jpg>
+Package pdftex.def Info: bimage004.jpg used on input line 472.
+(pdftex.def)             Requested size: 360.0pt x 259.6149pt.
+ [25 <D:/eyantra_internship/ZigbeeBook/bimage003.jpg>]
+<bimage005.jpg, id=578, 469.755pt x 286.06876pt>
+File: bimage005.jpg Graphic file (type jpg)
+ <use bimage005.jpg>
+Package pdftex.def Info: bimage005.jpg used on input line 486.
+(pdftex.def)             Requested size: 360.0pt x 219.23036pt.
+
+<bimage006.jpg, id=579, 469.755pt x 299.61937pt>
+File: bimage006.jpg Graphic file (type jpg)
+ <use bimage006.jpg>
+Package pdftex.def Info: bimage006.jpg used on input line 492.
+(pdftex.def)             Requested size: 360.0pt x 229.61496pt.
+ [26 <D:/eyantra_internship/ZigbeeBook/bimage004.jpg>]
+<bimage007.jpg, id=585, 469.755pt x 283.81032pt>
+File: bimage007.jpg Graphic file (type jpg)
+ <use bimage007.jpg>
+Package pdftex.def Info: bimage007.jpg used on input line 500.
+(pdftex.def)             Requested size: 360.0pt x 217.4996pt.
+
+<bimage008.jpg, id=586, 469.755pt x 298.11375pt>
+File: bimage008.jpg Graphic file (type jpg)
+ <use bimage008.jpg>
+Package pdftex.def Info: bimage008.jpg used on input line 506.
+(pdftex.def)             Requested size: 360.0pt x 228.46112pt.
+ [27 <D:/eyantra_internship/ZigbeeBook/bimage005.jpg> <D:/eyantra_internship/Zi
+gbeeBook/bimage006.jpg>] <bimage009.jpg, id=593, 469.755pt x 288.3272pt>
+File: bimage009.jpg Graphic file (type jpg)
+
+<use bimage009.jpg>
+Package pdftex.def Info: bimage009.jpg used on input line 519.
+(pdftex.def)             Requested size: 360.0pt x 220.96112pt.
+ [28 <D:/eyantra_internship/ZigbeeBook/bimage007.jpg> <D:/eyantra_internship/Zi
+gbeeBook/bimage008.jpg>]
+<bimage010.jpg, id=600, 469.755pt x 296.60812pt>
+File: bimage010.jpg Graphic file (type jpg)
+ <use bimage010.jpg>
+Package pdftex.def Info: bimage010.jpg used on input line 525.
+(pdftex.def)             Requested size: 360.0pt x 227.30727pt.
+
+<bimage011.jpg, id=601, 469.755pt x 280.79906pt>
+File: bimage011.jpg Graphic file (type jpg)
+ <use bimage011.jpg>
+Package pdftex.def Info: bimage011.jpg used on input line 533.
+(pdftex.def)             Requested size: 360.0pt x 215.19191pt.
+
+<bimage012.jpg, id=602, 469.755pt x 301.125pt>
+File: bimage012.jpg Graphic file (type jpg)
+ <use bimage012.jpg>
+Package pdftex.def Info: bimage012.jpg used on input line 539.
+(pdftex.def)             Requested size: 360.0pt x 230.7688pt.
+ [29 <D:/eyantra_internship/ZigbeeBook/bimage009.jpg> <D:/eyantra_internship/Zi
+gbeeBook/bimage010.jpg>]
+Overfull \hbox (46.9126pt too wide) in paragraph at lines 553--572
+ [][] 
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 573.
+[30 <D:/eyantra_internship/ZigbeeBook/bimage011.jpg> <D:/eyantra_internship/Zig
+beeBook/bimage012.jpg>] [31] <bimage013.jpg, id=625, 469.755pt x 293.59688pt>
+File: bimage013.jpg Graphic file (type jpg)
+
+<use bimage013.jpg>
+Package pdftex.def Info: bimage013.jpg used on input line 623.
+(pdftex.def)             Requested size: 360.0pt x 224.99957pt.
+ [32] <bimage014.jpg, id=630, 469.755pt x 303.38344pt>
+File: bimage014.jpg Graphic file (type jpg)
+
+<use bimage014.jpg>
+Package pdftex.def Info: bimage014.jpg used on input line 632.
+(pdftex.def)             Requested size: 360.0pt x 232.49957pt.
+ <bimage015.jpg, id=631, 469.755pt x 297.36093pt>
+File: bimage015.jpg Graphic file (type jpg)
+
+<use bimage015.jpg>
+Package pdftex.def Info: bimage015.jpg used on input line 639.
+(pdftex.def)             Requested size: 360.0pt x 227.88419pt.
+ [33 <D:/eyantra_internship/ZigbeeBook/bimage013.jpg> <D:/eyantra_internship/Zi
+gbeeBook/bimage014.jpg>]
+<bimage016.jpg, id=638, 469.755pt x 319.94531pt>
+File: bimage016.jpg Graphic file (type jpg)
+ <use bimage016.jpg>
+Package pdftex.def Info: bimage016.jpg used on input line 652.
+(pdftex.def)             Requested size: 360.0pt x 245.19185pt.
+ [34 <D:/eyantra_internship/ZigbeeBook/bimage015.jpg>] [35 <D:/eyantra_internsh
+ip/ZigbeeBook/bimage016.jpg>]
+Chapter 4.
+<mimage001.png, id=652, 483.30562pt x 319.94531pt>
+File: mimage001.png Graphic file (type png)
+ <use mimage001.png>
+Package pdftex.def Info: mimage001.png used on input line 680.
+(pdftex.def)             Requested size: 431.9989pt x 285.99043pt.
+
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 680--682
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--684
+
+ []
+
+[36
+
+ <D:/eyantra_internship/ZigbeeBook/mimage001.png>]
+File: bimage002.jpg Graphic file (type jpg)
+ <use bimage002.jpg>
+Package pdftex.def Info: bimage002.jpg used on input line 693.
+(pdftex.def)             Requested size: 360.0pt x 252.69183pt.
+File: bimage003.jpg Graphic file (type jpg)
+
+<use bimage003.jpg>
+Package pdftex.def Info: bimage003.jpg used on input line 702.
+(pdftex.def)             Requested size: 360.0pt x 260.76875pt.
+ [37]
+File: bimage004.jpg Graphic file (type jpg)
+ <use bimage004.jpg>
+Package pdftex.def Info: bimage004.jpg used on input line 713.
+(pdftex.def)             Requested size: 360.0pt x 259.6149pt.
+ [38]
+File: bimage005.jpg Graphic file (type jpg)
+ <use bimage005.jpg>
+Package pdftex.def Info: bimage005.jpg used on input line 727.
+(pdftex.def)             Requested size: 360.0pt x 219.23036pt.
+File: bimage006.jpg Graphic file (type jpg)
+
+<use bimage006.jpg>
+Package pdftex.def Info: bimage006.jpg used on input line 733.
+(pdftex.def)             Requested size: 360.0pt x 229.61496pt.
+ [39]
+File: bimage007.jpg Graphic file (type jpg)
+ <use bimage007.jpg>
+Package pdftex.def Info: bimage007.jpg used on input line 741.
+(pdftex.def)             Requested size: 360.0pt x 217.4996pt.
+File: bimage008.jpg Graphic file (type jpg)
+ <use bimage008.jpg>
+Package pdftex.def Info: bimage008.jpg used on input line 747.
+(pdftex.def)             Requested size: 360.0pt x 228.46112pt.
+ [40]
+File: bimage009.jpg Graphic file (type jpg)
+
+<use bimage009.jpg>
+Package pdftex.def Info: bimage009.jpg used on input line 760.
+(pdftex.def)             Requested size: 360.0pt x 220.96112pt.
+ [41]
+File: bimage010.jpg Graphic file (type jpg)
+ <use bimage010.jpg>
+Package pdftex.def Info: bimage010.jpg used on input line 766.
+(pdftex.def)             Requested size: 360.0pt x 227.30727pt.
+File: bimage011.jpg Graphic file (type jpg)
+ <use bimage011.jpg>
+Package pdftex.def Info: bimage011.jpg used on input line 774.
+(pdftex.def)             Requested size: 360.0pt x 215.19191pt.
+File: bimage012.jpg Graphic file (type jpg)
+
+<use bimage012.jpg>
+Package pdftex.def Info: bimage012.jpg used on input line 780.
+(pdftex.def)             Requested size: 360.0pt x 230.7688pt.
+ [42]
+Overfull \hbox (46.9126pt too wide) in paragraph at lines 794--813
+ [][] 
+ []
+
+[43] [44]
+Overfull \vbox (4.19974pt too high) has occurred while \output is active []
+
+
+[45] <mimage013.jpg, id=711, 469.755pt x 293.59688pt>
+File: mimage013.jpg Graphic file (type jpg)
+ <use mimage013.jpg>
+Package pdftex.def Info: mimage013.jpg used on input line 863.
+(pdftex.def)             Requested size: 360.0pt x 224.99957pt.
+
+<mimage014.jpg, id=712, 469.755pt x 311.66437pt>
+File: mimage014.jpg Graphic file (type jpg)
+ <use mimage014.jpg>
+Package pdftex.def Info: mimage014.jpg used on input line 872.
+(pdftex.def)             Requested size: 360.0pt x 238.8457pt.
+ [46 <D:/eyantra_internship/ZigbeeBook/mimage013.jpg>]
+<mimage015.jpg, id=718, 469.755pt x 304.13625pt>
+File: mimage015.jpg Graphic file (type jpg)
+ <use mimage015.jpg>
+Package pdftex.def Info: mimage015.jpg used on input line 879.
+(pdftex.def)             Requested size: 360.0pt x 233.07649pt.
+File: bimage016.jpg Graphic file (type jpg)
+
+<use bimage016.jpg>
+Package pdftex.def Info: bimage016.jpg used on input line 892.
+(pdftex.def)             Requested size: 360.0pt x 245.19185pt.
+ [47 <D:/eyantra_internship/ZigbeeBook/mimage014.jpg> <D:/eyantra_internship/Zi
+gbeeBook/mimage015.jpg>] [48] [49]
+Chapter 5.
+<rimage001.png, id=738, 319.94531pt x 230.36063pt>
+File: rimage001.png Graphic file (type png)
+ <use rimage001.png>
+Package pdftex.def Info: rimage001.png used on input line 922.
+(pdftex.def)             Requested size: 431.9989pt x 311.0437pt.
+
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 922--924
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--926
+
+ []
+
+[50
+
+ <D:/eyantra_internship/ZigbeeBook/rimage001.png>]
+File: bimage002.jpg Graphic file (type jpg)
+ <use bimage002.jpg>
+Package pdftex.def Info: bimage002.jpg used on input line 935.
+(pdftex.def)             Requested size: 360.0pt x 252.69183pt.
+File: bimage003.jpg Graphic file (type jpg)
+
+<use bimage003.jpg>
+Package pdftex.def Info: bimage003.jpg used on input line 944.
+(pdftex.def)             Requested size: 360.0pt x 260.76875pt.
+ [51]
+File: bimage004.jpg Graphic file (type jpg)
+ <use bimage004.jpg>
+Package pdftex.def Info: bimage004.jpg used on input line 955.
+(pdftex.def)             Requested size: 360.0pt x 259.6149pt.
+ [52]
+File: bimage005.jpg Graphic file (type jpg)
+ <use bimage005.jpg>
+Package pdftex.def Info: bimage005.jpg used on input line 969.
+(pdftex.def)             Requested size: 360.0pt x 219.23036pt.
+File: bimage006.jpg Graphic file (type jpg)
+
+<use bimage006.jpg>
+Package pdftex.def Info: bimage006.jpg used on input line 975.
+(pdftex.def)             Requested size: 360.0pt x 229.61496pt.
+ [53]
+File: bimage007.jpg Graphic file (type jpg)
+ <use bimage007.jpg>
+Package pdftex.def Info: bimage007.jpg used on input line 983.
+(pdftex.def)             Requested size: 360.0pt x 217.4996pt.
+File: bimage008.jpg Graphic file (type jpg)
+ <use bimage008.jpg>
+Package pdftex.def Info: bimage008.jpg used on input line 989.
+(pdftex.def)             Requested size: 360.0pt x 228.46112pt.
+ [54]
+File: bimage009.jpg Graphic file (type jpg)
+
+<use bimage009.jpg>
+Package pdftex.def Info: bimage009.jpg used on input line 1002.
+(pdftex.def)             Requested size: 360.0pt x 220.96112pt.
+ [55]
+File: bimage010.jpg Graphic file (type jpg)
+ <use bimage010.jpg>
+Package pdftex.def Info: bimage010.jpg used on input line 1008.
+(pdftex.def)             Requested size: 360.0pt x 227.30727pt.
+File: bimage011.jpg Graphic file (type jpg)
+ <use bimage011.jpg>
+Package pdftex.def Info: bimage011.jpg used on input line 1016.
+(pdftex.def)             Requested size: 360.0pt x 215.19191pt.
+File: bimage012.jpg Graphic file (type jpg)
+
+<use bimage012.jpg>
+Package pdftex.def Info: bimage012.jpg used on input line 1022.
+(pdftex.def)             Requested size: 360.0pt x 230.7688pt.
+ [56]
+Overfull \hbox (46.9126pt too wide) in paragraph at lines 1036--1055
+ [][] 
+ []
+
+[57] [58] <rimage013.jpg, id=792, 469.755pt x 293.59688pt>
+File: rimage013.jpg Graphic file (type jpg)
+ <use rimage013.jpg>
+Package pdftex.def Info: rimage013.jpg used on input line 1109.
+(pdftex.def)             Requested size: 360.0pt x 224.99957pt.
+
+[59] <rimage014.jpg, id=797, 469.755pt x 300.3722pt>
+File: rimage014.jpg Graphic file (type jpg)
+ <use rimage014.jpg>
+Package pdftex.def Info: rimage014.jpg used on input line 1118.
+(pdftex.def)             Requested size: 360.0pt x 230.19188pt.
+
+<rimage015.jpg, id=798, 469.755pt x 301.8778pt>
+File: rimage015.jpg Graphic file (type jpg)
+ <use rimage015.jpg>
+Package pdftex.def Info: rimage015.jpg used on input line 1125.
+(pdftex.def)             Requested size: 360.0pt x 231.34572pt.
+ [60 <D:/eyantra_internship/ZigbeeBook/rimage013.jpg> <D:/eyantra_internship/Zi
+gbeeBook/rimage014.jpg>]
+File: bimage016.jpg Graphic file (type jpg)
+ <use bimage016.jpg>
+Package pdftex.def Info: bimage016.jpg used on input line 1138.
+(pdftex.def)             Requested size: 360.0pt x 245.19185pt.
+ [61 <D:/eyantra_internship/ZigbeeBook/rimage015.jpg>] [62] [63]
+Chapter 6.
+<cimage001.jpg, id=823, 469.755pt x 302.63063pt>
+File: cimage001.jpg Graphic file (type jpg)
+ <use cimage001.jpg>
+Package pdftex.def Info: cimage001.jpg used on input line 1167.
+(pdftex.def)             Requested size: 360.0pt x 231.92265pt.
+ [64
+
+ <D:/eyantra_internship/ZigbeeBook/cimage001.jpg>]
+<cimage002.jpg, id=829, 469.755pt x 377.15906pt>
+File: cimage002.jpg Graphic file (type jpg)
+ <use cimage002.jpg>
+Package pdftex.def Info: cimage002.jpg used on input line 1194.
+(pdftex.def)             Requested size: 360.0pt x 289.03793pt.
+ [65 <D:/eyantra_internship/ZigbeeBook/cimage002.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1220
+
+ []
+
+[66] <cimage003.jpg, id=841, 469.755pt x 368.87813pt>
+File: cimage003.jpg Graphic file (type jpg)
+ <use cimage003.jpg>
+Package pdftex.def Info: cimage003.jpg used on input line 1244.
+(pdftex.def)             Requested size: 360.0pt x 282.69179pt.
+
+[67 <D:/eyantra_internship/ZigbeeBook/cimage003.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1270
+
+ []
+
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1295
+
+ []
+
+
+Overfull \hbox (0.31589pt too wide) in paragraph at lines 1300--1301
+[]\T1/lmr/m/n/10.95 Once a Co-or-di-na-tor has started: Mod-i-fy-ing the A2 (Re
+-as-sign_Channel
+ []
+
+[69] [70]
+Chapter 7.
+<aimage011.jpg, id=860, 469.755pt x 293.59688pt>
+File: aimage011.jpg Graphic file (type jpg)
+ <use aimage011.jpg>
+Package pdftex.def Info: aimage011.jpg used on input line 1314.
+(pdftex.def)             Requested size: 251.9989pt x 157.49612pt.
+
+<aimage007.jpg, id=861, 469.755pt x 300.3722pt>
+File: aimage007.jpg Graphic file (type jpg)
+ <use aimage007.jpg>
+Package pdftex.def Info: aimage007.jpg used on input line 1326.
+(pdftex.def)             Requested size: 251.9989pt x 161.13065pt.
+ [71
+
+ <D:/eyantra_internship/ZigbeeBook/aimage011.jpg>]
+<aimage008.jpg, id=867, 469.755pt x 303.38344pt>
+File: aimage008.jpg Graphic file (type jpg)
+ <use aimage008.jpg>
+Package pdftex.def Info: aimage008.jpg used on input line 1356.
+(pdftex.def)             Requested size: 251.9989pt x 162.74599pt.
+ [72 <D:/eyantra_internship/ZigbeeBook/aimage007.jpg>]
+<aimage009.jpg, id=875, 469.755pt x 303.38344pt>
+File: aimage009.jpg Graphic file (type jpg)
+ <use aimage009.jpg>
+Package pdftex.def Info: aimage009.jpg used on input line 1386.
+(pdftex.def)             Requested size: 251.9989pt x 162.74599pt.
+ [73 <D:/eyantra_internship/ZigbeeBook/aimage008.jpg> <D:/eyantra_internship/Zi
+gbeeBook/aimage009.jpg>] <aimage010.jpg, id=883, 469.755pt x 304.88907pt>
+File: aimage010.jpg Graphic file (type jpg)
+
+<use aimage010.jpg>
+Package pdftex.def Info: aimage010.jpg used on input line 1417.
+(pdftex.def)             Requested size: 251.9989pt x 163.55367pt.
+ [74 <D:/eyantra_internship/ZigbeeBook/aimage010.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1438--1438
+
+ []
+
+File: aimage011.jpg Graphic file (type jpg)
+<use aimage011.jpg>
+Package pdftex.def Info: aimage011.jpg used on input line 1445.
+(pdftex.def)             Requested size: 251.9989pt x 157.49612pt.
+ [75] <aimage012.jpg, id=896, 387.69844pt x 217.5628pt>
+File: aimage012.jpg Graphic file (type jpg)
+
+<use aimage012.jpg>
+Package pdftex.def Info: aimage012.jpg used on input line 1454.
+(pdftex.def)             Requested size: 251.9989pt x 141.41414pt.
+ <aimage013.jpg, id=897, 469.755pt x 307.90031pt>
+File: aimage013.jpg Graphic file (type jpg)
+
+<use aimage013.jpg>
+Package pdftex.def Info: aimage013.jpg used on input line 1466.
+(pdftex.def)             Requested size: 251.9989pt x 165.169pt.
+ [76 <D:/eyantra_internship/ZigbeeBook/aimage012.jpg>]
+<aimage014.jpg, id=904, 469.755pt x 302.63063pt>
+File: aimage014.jpg Graphic file (type jpg)
+ <use aimage014.jpg>
+Package pdftex.def Info: aimage014.jpg used on input line 1494.
+(pdftex.def)             Requested size: 251.9989pt x 162.34216pt.
+ [77 <D:/eyantra_internship/ZigbeeBook/aimage013.jpg>]
+<aimage015.jpg, id=910, 469.755pt x 300.3722pt>
+File: aimage015.jpg Graphic file (type jpg)
+ <use aimage015.jpg>
+Package pdftex.def Info: aimage015.jpg used on input line 1506.
+(pdftex.def)             Requested size: 251.9989pt x 161.13065pt.
+ [78 <D:/eyantra_internship/ZigbeeBook/aimage014.jpg> <D:/eyantra_internship/Zi
+gbeeBook/aimage015.jpg>] <aimage016.jpg, id=918, 462.22687pt x 295.85532pt>
+File: aimage016.jpg Graphic file (type jpg)
+
+<use aimage016.jpg>
+Package pdftex.def Info: aimage016.jpg used on input line 1538.
+(pdftex.def)             Requested size: 251.9989pt x 161.29437pt.
+ <aimage017.jpg, id=919, 469.755pt x 301.125pt>
+File: aimage017.jpg Graphic file (type jpg)
+
+<use aimage017.jpg>
+Package pdftex.def Info: aimage017.jpg used on input line 1549.
+(pdftex.def)             Requested size: 251.9989pt x 161.53448pt.
+ [79 <D:/eyantra_internship/ZigbeeBook/aimage016.jpg> <D:/eyantra_internship/Zi
+gbeeBook/aimage017.jpg>] [80]
+
+LaTeX Warning: Hyper reference `www.e-yantra.org' on page 81 undefined on input
+ line 1572.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1573.
+[81]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1573.
+ ("D:\eyantra_internship\ZigbeeBook\A Guide on Zigbee.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1573.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1573.
+
+Package rerunfilecheck Info: File `A*Guide*on*Zigbee.out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1573.
+ ) 
+Here is how much of TeX's memory you used:
+ 14731 strings out of 493921
+ 244715 string characters out of 3147282
+ 390216 words of memory out of 3000000
+ 17556 multiletter control sequences out of 15000+200000
+ 84824 words of font info for 59 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,11n,38p,10373b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Fil
+es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy
+.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/lm/lmtt10.pfb>
+Output written on "A Guide on Zigbee.pdf" (82 pages, 3053285 bytes).
+PDF statistics:
+ 1038 PDF objects out of 1200 (max. 8388607)
+ 262 named destinations out of 1000 (max. 500000)
+ 962 words of extra memory for PDF output out of 10000 (max. 10000000)
+

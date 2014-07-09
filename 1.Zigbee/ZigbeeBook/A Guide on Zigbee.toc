@@ -1,0 +1,78 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Installation Steps For X-CTU}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}What is X-CTU?}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Steps for Installation.}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}\textbf {Step 1}}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}\textbf {Step 2}}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}\textbf {Step 3}}{6}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}\textbf {Step 4}}{6}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}\textbf {Step 5}}{7}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}\textbf {Step 6}}{8}{subsection.1.2.6}
+\contentsline {subsection}{\numberline {1.2.7}\textbf {Step 7}}{9}{subsection.1.2.7}
+\contentsline {chapter}{\numberline {2}Unicast Mode}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Connecting the X-bee modules to the PC in Unicast mode}{10}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Step 1:Inserting XBEE in XBEE adaptor}{10}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Step 2:Connecting XBEE module to PC.}{10}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Step 3:Com port settings.}{11}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Step4: Launching X-CTU Software.}{11}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Step5: X-CTU window}{12}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Step6: Testing and Querying the Network by Serial number verification.}{13}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Step8: Launching two X-CTUs}{15}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Step9: Testing and Querying with serial number check.}{16}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}Step10: Reading the module}{16}{subsection.2.1.9}
+\contentsline {subsection}{\numberline {2.1.10}Step11: Setting the network address}{17}{subsection.2.1.10}
+\contentsline {subsection}{\numberline {2.1.11}Step12: Writing the module}{21}{subsection.2.1.11}
+\contentsline {subsection}{\numberline {2.1.12}Step13: Verification of Unicast Network Configuration}{21}{subsection.2.1.12}
+\contentsline {subsection}{\numberline {2.1.13}conclusion}{22}{subsection.2.1.13}
+\contentsline {chapter}{\numberline {3}Broadcast}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}What is Broadcast?}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}Steps to configuring Broadcast}{24}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Step 1: Connecting Zigbee to PC.}{24}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Step 2: Launching X-CTU Software.}{25}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Step 3: Testing and Querying the Network by Serial number verification.}{26}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Step 4: Reading the module.}{29}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Step 5: Setting the Network Address.}{30}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Step 6:Writing the module}{33}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Step 7: Verification of Broadcast Network Configuration.}{34}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}conclusion}{35}{subsection.3.2.8}
+\contentsline {chapter}{\numberline {4}Multicast}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}What is Multicast?}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}Steps to configuring Multicast}{37}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Step 1: Connecting Zigbee to PC.}{37}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Step 2: Launching X-CTU Software.}{38}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Step 3: Testing and Querying the Network by Serial number verification.}{39}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Step 4: Reading the module.}{42}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Step 5: Setting the Network Address.}{43}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Step 6:Writing the module}{46}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Step 7: Verification of Multicast Network Configuration.}{48}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}conclusion}{49}{subsection.4.2.8}
+\contentsline {chapter}{\numberline {5}Ring Topology}{50}{chapter.5}
+\contentsline {section}{\numberline {5.1}What is Ring Topology?}{50}{section.5.1}
+\contentsline {section}{\numberline {5.2}Steps to configuring Ring Topology}{51}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Step 1: Connecting Zigbee to PC.}{51}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Step 2: Launching X-CTU Software.}{52}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Step 3: Testing and Querying the Network by Serial number verification.}{53}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Step 4: Reading the module.}{56}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Step 5: Setting the Network Address.}{57}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Step 6:Writing the module}{60}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}Step 7: Verification of Multicast Network Configuration.}{61}{subsection.5.2.7}
+\contentsline {subsection}{\numberline {5.2.8}conclusion}{63}{subsection.5.2.8}
+\contentsline {chapter}{\numberline {6}Co-ordinator and end user mode}{64}{chapter.6}
+\contentsline {section}{\numberline {6.1}Steps to configure coordinator and end user}{64}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Step1: Follow the Steps from previous manuals.}{64}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Step 2: Configure Coordinator}{65}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Step 3: Configure End Device.}{67}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Step 4: First power up the coordinator then the end user}{68}{subsection.6.1.4}
+\contentsline {chapter}{\numberline {7}Transmitting Analog and Digital data}{71}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{71}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Agenda}{71}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}\textbf {Configuration of xbee in Digital mode:}}{72}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Step 1 : Configuration of xbee modules in Unicast mode.}{72}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Step 2: API enable.}{72}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Step 3:DI Configuration.}{73}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Step 4: Sample Rate}{73}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Step 5: Hardware connections}{76}{subsection.7.2.5}
+\contentsline {subsection}{\numberline {7.2.6}Step 6: Show Hex}{76}{subsection.7.2.6}
+\contentsline {subsection}{\numberline {7.2.7}Step 7: Reading input HEX data}{77}{subsection.7.2.7}
+\contentsline {subsection}{\numberline {7.2.8}Step 8: Assessing the data for Digital configurations }{78}{subsection.7.2.8}
+\contentsline {section}{\numberline {7.3}Configuration of xbee in ADC mode:}{79}{section.7.3}

@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {2}{Introduction to Serial Communication}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{What is Serial Communication}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Needs and Ways of Serial Communication}{4}{0}{1}
+\beamer@subsectionintoc {2}{3}{Inbuilt UART pins of ATmega 2560}{16}{0}{1}
+\beamer@sectionintoc {3}{Registers used in serial communication}{22}{0}{2}
+\beamer@subsectionintoc {3}{1}{Types of registers}{22}{0}{2}
+\beamer@subsectionintoc {3}{2}{UCSRnA}{27}{0}{2}
+\beamer@subsectionintoc {3}{3}{UCSRnB}{37}{0}{2}
+\beamer@subsectionintoc {3}{4}{UCSRnC}{47}{0}{2}
+\beamer@subsectionintoc {3}{5}{UBRRnL \& UBRRnH}{58}{0}{2}
+\beamer@subsectionintoc {3}{6}{UDRn}{60}{0}{2}
+\beamer@sectionintoc {4}{Interrupts in Serial communication}{63}{0}{3}
+\beamer@subsectionintoc {4}{1}{Receive Complete ISR}{63}{0}{3}
+\beamer@subsectionintoc {4}{2}{Data Register empty ISR}{64}{0}{3}
+\beamer@subsectionintoc {4}{3}{Transmit Complete ISR}{65}{0}{3}
+\beamer@sectionintoc {5}{C Code}{66}{0}{4}
+\beamer@subsectionintoc {5}{1}{UART initialization}{66}{0}{4}

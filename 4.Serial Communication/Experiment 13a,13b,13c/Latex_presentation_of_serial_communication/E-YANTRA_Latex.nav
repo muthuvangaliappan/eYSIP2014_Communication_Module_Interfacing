@@ -1,0 +1,70 @@
+\beamer@endinputifotherversion {3.33pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\sectionentry {1}{Outline}{2}{Outline}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\slideentry {1}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {2}{Introduction to Serial Communication}{3}{Introduction to Serial Communication}{0}}
+\headcommand {\beamer@sectionpages {2}{2}}
+\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{3}{What is Serial Communication}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {2}{1}{1}{3/3}{What is Serial Communication}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{4}{Needs and Ways of Serial Communication}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {2}{2}{1}{4/15}{Needs and Ways of Serial Communication}{0}}
+\headcommand {\beamer@framepages {4}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{16}{Inbuilt UART pins of ATmega 2560}}\headcommand {\beamer@subsectionpages {4}{15}}
+\headcommand {\slideentry {2}{3}{1}{16/21}{Inbuilt UART pins of ATmega 2560}{0}}
+\headcommand {\beamer@framepages {16}{21}}
+\headcommand {\sectionentry {3}{Registers used in serial communication}{22}{Registers used in serial communication}{0}}
+\headcommand {\beamer@sectionpages {3}{21}}
+\headcommand {\beamer@subsectionpages {16}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{22}{Types of registers}}\headcommand {\beamer@subsectionpages {22}{21}}
+\headcommand {\slideentry {3}{1}{1}{22/26}{Types of registers}{0}}
+\headcommand {\beamer@framepages {22}{26}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{27}{UCSRnA}}\headcommand {\beamer@subsectionpages {22}{26}}
+\headcommand {\slideentry {3}{2}{1}{27/36}{UCSRnA}{0}}
+\headcommand {\beamer@framepages {27}{36}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{37}{UCSRnB}}\headcommand {\beamer@subsectionpages {27}{36}}
+\headcommand {\slideentry {3}{3}{1}{37/46}{UCSRnB}{0}}
+\headcommand {\beamer@framepages {37}{46}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{47}{UCSRnC}}\headcommand {\beamer@subsectionpages {37}{46}}
+\headcommand {\slideentry {3}{4}{1}{47/53}{UCSRnC}{0}}
+\headcommand {\beamer@framepages {47}{53}}
+\headcommand {\slideentry {3}{4}{2}{54/57}{UCSRnC}{0}}
+\headcommand {\beamer@framepages {54}{57}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{58}{UBRRnL \& UBRRnH}}\headcommand {\beamer@subsectionpages {47}{57}}
+\headcommand {\slideentry {3}{5}{1}{58/59}{UBRRnL \& UBRRnH}{0}}
+\headcommand {\beamer@framepages {58}{59}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{60}{UDRn}}\headcommand {\beamer@subsectionpages {58}{59}}
+\headcommand {\slideentry {3}{6}{1}{60/62}{UDRn}{0}}
+\headcommand {\beamer@framepages {60}{62}}
+\headcommand {\sectionentry {4}{Interrupts in Serial communication}{63}{Interrupts in Serial communication}{0}}
+\headcommand {\beamer@sectionpages {22}{62}}
+\headcommand {\beamer@subsectionpages {60}{62}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{63}{Receive Complete ISR}}\headcommand {\beamer@subsectionpages {63}{62}}
+\headcommand {\slideentry {4}{1}{1}{63/63}{Receive Complete ISR}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{64}{Data Register empty ISR}}\headcommand {\beamer@subsectionpages {63}{63}}
+\headcommand {\slideentry {4}{2}{1}{64/64}{Data Register empty ISR}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{65}{Transmit Complete ISR}}\headcommand {\beamer@subsectionpages {64}{64}}
+\headcommand {\slideentry {4}{3}{1}{65/65}{Transmit Complete ISR}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\sectionentry {5}{C Code}{66}{C Code}{0}}
+\headcommand {\beamer@sectionpages {63}{65}}
+\headcommand {\beamer@subsectionpages {65}{65}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{66}{UART initialization}}\headcommand {\beamer@subsectionpages {66}{65}}
+\headcommand {\slideentry {5}{1}{1}{66/67}{UART initialization}{0}}
+\headcommand {\beamer@framepages {66}{67}}
+\headcommand {\slideentry {5}{1}{2}{68/68}{UART initialization}{0}}
+\headcommand {\beamer@framepages {68}{68}}
+\headcommand {\slideentry {5}{1}{3}{69/69}{UART initialization}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\beamer@partpages {1}{69}}
+\headcommand {\beamer@subsectionpages {66}{69}}
+\headcommand {\beamer@sectionpages {66}{69}}
+\headcommand {\beamer@documentpages {69}}
+\headcommand {\def \inserttotalframenumber {18}}

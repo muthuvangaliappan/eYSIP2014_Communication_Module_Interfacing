@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "wifi_interacing", "wifi_interacing\wifi_interacing.cproj", "{85C041D1-84C4-4774-8164-398662C73F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C041D1-84C4-4774-8164-398662C73F5B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{85C041D1-84C4-4774-8164-398662C73F5B}.Debug|AVR.Build.0 = Debug|AVR
+		{85C041D1-84C4-4774-8164-398662C73F5B}.Release|AVR.ActiveCfg = Release|AVR
+		{85C041D1-84C4-4774-8164-398662C73F5B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
