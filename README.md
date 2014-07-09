@@ -1,7 +1,7 @@
 Communication Module Interfacing
 ==========================================
 
-Eyantra Internship 26th may 2014- 10th july 2014
+Eyantra Summer Internship 26th may 2014- 10th july 2014
 
 Team Mentor:
 =============
