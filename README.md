@@ -5,7 +5,9 @@ Eyantra Internship 26th may 2014- 10th july 2014
 
 Team Mentor: Shailesh Jain
 
-Team Members: Rohan M Nayak
+Team Members: 
+
+	      Rohan M Nayak
 
 	      Muthu Vangaliappan
 
