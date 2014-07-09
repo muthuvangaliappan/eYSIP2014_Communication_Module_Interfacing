@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Objective of work}{2}{0}{1}
+\beamer@sectionintoc {2}{Scope of the work}{3}{0}{2}
+\beamer@sectionintoc {3}{Completion status}{4}{0}{3}
+\beamer@sectionintoc {4}{Results and discussion}{5}{0}{4}
+\beamer@sectionintoc {5}{Features and bugs}{6}{0}{5}
+\beamer@sectionintoc {6}{Future work}{7}{0}{6}
+\beamer@sectionintoc {7}{BE project idea}{8}{0}{7}
